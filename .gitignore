@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / Packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Project specifics
+*.log
+test_files/
+hwpx_unziiped/
+output.hwpx
+output.html
+output1.html
+output2.html
+output3.html
+table-heavy-doc.html
+test.html
+eunsoonimy_sample.html
+test_files/
+output.hwpx
+node_modules/
